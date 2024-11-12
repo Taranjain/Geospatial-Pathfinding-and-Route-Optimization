@@ -16,7 +16,8 @@
 This folder contains multiple projects. Below is a brief explanation on how to use each of them.
 ## Project 1: Star link Intersatellite Transmission Pathfinding Using A* Algorithm and TLE Data
 
-This project helps you find the nearest Bus Rapid Transit System (BRTS) station using geographical data.
+demonstrates a robust approach to satellite pathfinding for Star link intersatellite transmission using TLE data, ECEF conversion, and the A* algorithm. 
+
 
 ### How to Use:
 1. Clone this repository to your local machine:
@@ -24,21 +25,21 @@ This project helps you find the nearest Bus Rapid Transit System (BRTS) station 
    git clone https://github.com/ashishbongu/Oops-Project.git 
 2. Navigate to the project folder using:<br>
 
-**COMMAND:  cd "D:/oops_project/HAVERSINE ALGORITHM"**
+**COMMAND:  cd "D:/oops_project/A-star ALGORITHM"**
 
 Inside the project folder, you'll find the src folder with the Java code and other necessary files.<br>
 The dataset containing the geographical information is located outside the src folder, in the root project directory.<br>
 
 D:/oops_project/<br>
-├── HAVERSINE ALGORITHM/<br>
+├── A-star ALGORITHM/<br>
 │   ├── src/<br>
-│   │   └── [BusStationGraph.java](https://github.com/ashishbongu/Oops-Project/blob/master/HAVERSINE%20ALGORITHM/src/BusStationGraph.java)<br>
-│   ├── station.txt<br>
+│   │   └── [main](https://github.com/ashishbongu/Oops-Project/blob/master/A-star ALGORITHM/src/main.java)<br>
+│   ├── satellite.tle<br>
 │   └── (other project files)<br><br>
 
 3. Compile the Java file:
 
-**COMMAND: javac BusStationGraph.java**
+**COMMAND: javac main.java**
 
 ## Project 2: Nearest BRTS Station Finder
 

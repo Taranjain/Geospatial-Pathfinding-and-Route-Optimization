@@ -33,7 +33,7 @@ The dataset containing the geographical information is located outside the src f
 D:/oops_project/<br>
 ├── A-star ALGORITHM/<br>
 │   ├── src/<br>
-│   │   └── [main](https://github.com/ashishbongu/Oops-Project/blob/master/A-star ALGORITHM/src/main.java)<br>
+│   │   └── [main](https://github.com/ashishbongu/Oops-Project/blob/master/A-star%20ALGORITHM/src/Main.java)<br>
 │   ├── satellite.tle<br>
 │   └── (other project files)<br><br>
 
@@ -67,6 +67,33 @@ D:/oops_project/<br>
 
 **COMMAND: javac BusStationGraph.java**
 
+## Project 3: Optimized Flight Route Finder Using KRUSKAL Algorithm
+
+
+a project that leverages a graph-based approach to find the most efficient flight routes between two airports. By utilizing a Minimum Spanning Tree (MST) algorithm
+
+
+### How to Use:
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/ashishbongu/Oops-Project.git 
+2. Navigate to the project folder using:<br>
+
+**COMMAND:  cd "D:/oops_project/KRUSKAL ALGORITHM"**
+
+Inside the project folder, you'll find the src folder with the Java code and other necessary files.<br>
+The dataset containing the geographical information is located outside the src folder, in the root project directory.<br>
+
+D:/oops_project/<br>
+├── A-star ALGORITHM/<br>
+│   ├── src/<br>
+│   │   └── [main](https://github.com/ashishbongu/Oops-Project/blob/master/A-star%20ALGORITHM/src/Main.java)<br>
+│   ├── flights.csv<br>
+│   └── (other project files)<br><br>
+
+3. Compile the Java file:
+
+**COMMAND: javac .java**
 
 
 # Prerequisites:

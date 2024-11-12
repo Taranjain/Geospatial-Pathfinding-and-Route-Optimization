@@ -1,8 +1,11 @@
 # Java Based Applications on Distinct Datasets Using Different Algorithms
 
-Brief description of what the project is and its purpose.
+# Group Members: 
+     BONGU ASHISH - 23BDS014 
+     CHABALA SAI ARAVIND - 23BDS075
+     TARAN JAIN - 23BDS062 
 
-## Table of Contents
+### Table of Contents
 
 1. [Project Setup](#project-setup)
 2. [How to Use](#how-to-use)

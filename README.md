@@ -7,11 +7,9 @@
 
 ### Table of Contents
 
-1. [Project Setup](#project-setup)
-2. [How to Use](#how-to-use)
-3. [Features](#features)
-4. [Contributing](#contributing)
-5. [License](#license)
+1. A* ALGORITHM- on starlink satelite
+2. HAVERSINE ALGORITHM- finding nearest BRTS Stop
+3. KRUSKAL ALGORITHM- optimized flight route 
 
 ## Project Setup
 

@@ -25,7 +25,7 @@ This project helps you find the nearest Bus Rapid Transit System (BRTS) station 
    git clone https://github.com/ashishbongu/Oops-Project.git 
 2. Navigate to the project folder using:<br>
 
-**COMMAND:  cd "D:/oops_project/Nearest_BRTS_Station"**
+**COMMAND:  cd "D:/oops_project/HAVERSINE ALGORITHM"**
 
 Inside the project folder, you'll find the src folder with the Java code and other necessary files.<br>
 The dataset containing the geographical information is located outside the src folder, in the root project directory.<br>

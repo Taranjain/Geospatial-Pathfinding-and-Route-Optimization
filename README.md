@@ -22,8 +22,7 @@ This project helps you find the nearest Bus Rapid Transit System (BRTS) station 
 ### How to Use:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ashishbongu/Oops-Project.git
-   
+   git clone https://github.com/ashishbongu/Oops-Project.git 
 2. Navigate to the project folder using:<br>
 
 **COMMAND:  cd "D:/oops_project/Nearest_BRTS_Station"**
@@ -34,9 +33,13 @@ The dataset containing the geographical information is located outside the src f
 D:/oops_project/<br>
 ├── HAVERSINE ALGORITHM/<br>
 │   ├── src/<br>
-│   │   └── bus.java<br>
+│   │   └── [BusStationGraph.java](https://github.com/ashishbongu/Oops-Project/blob/master/HAVERSINE%20ALGORITHM/src/BusStationGraph.java)<br>
 │   ├── station.txt<br>
-│   └── (other project files)<br>
+│   └── (other project files)<br><br>
+
+3. Compile the Java file:
+
+**COMMAND: javac BusStationGraph.java**
 
 
 

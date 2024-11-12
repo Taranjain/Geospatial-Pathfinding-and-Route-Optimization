@@ -87,22 +87,12 @@ The dataset containing the geographical information is located outside the src f
 D:/oops_project/<br>
 ├── A-star ALGORITHM/<br>
 │   ├── src/<br>
-│   │   └── [main](https://github.com/ashishbongu/Oops-Project/blob/master/A-star%20ALGORITHM/src/Main.java)<br>
+│   │   └── [FlightRoutes.java](https://github.com/ashishbongu/Oops-Project/blob/master/KRUSKAL%20ALGORITHM/src/FlightRoutes.java)<br>
 │   ├── flights.csv<br>
 │   └── (other project files)<br><br>
 
 3. Compile the Java file:
 
-**COMMAND: javac .java**
+**COMMAND: javac FlightRoutes.java**
 
 
-# Prerequisites:
-Make sure you have the following installed on your machine:
-- [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) (if you're using Java for your project)
-- [Maven/Gradle](https://maven.apache.org/) (if applicable for dependency management)
-- [Git](https://git-scm.com/)
-
-### Installation Steps:
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git

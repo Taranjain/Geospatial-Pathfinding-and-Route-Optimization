@@ -1,22 +1,22 @@
 # Java Based Applications on Distinct Datasets Using Different Algorithms
 
-# Group Members: 
-     BONGU ASHISH - 23BDS014 
-     CHABALA SAI ARAVIND - 23BDS075
-     TARAN JAIN - 23BDS062 
+# Group Members and their projects: 
+     BONGU ASHISH - 23BDS014 (Nearest BRTS station finder)
+     CHABALA SAI ARAVIND - 23BDS075 (Starlink intersatellite transmission) 
+     TARAN JAIN - 23BDS062 (Flight route finder) 
 
 # Table of Contents
 
 1. A* ALGORITHM- Starlink Intersatellite shortest pathfinding algorithm.
-2. HAVERSINE ALGORITHM- finding nearest BRTS Stop
-3. KRUSKAL ALGORITHM- optimized flight route 
+2. HAVERSINE ALGORITHM- finding nearest BRTS Stop.
+3. KRUSKAL ALGORITHM- optimized flight route.
 
 # Project Folder Usage Guide
 
 This folder contains multiple projects. Below is a brief explanation on how to use each of them.
-## Project 1: Star link Intersatellite Transmission Pathfinding Using A* Algorithm and TLE Data
+## Project 1: Starlink Intersatellite Transmission Pathfinding Using A* Algorithm and TLE Data
 
-Demonstrates a robust approach to satellite pathfinding for Star link intersatellite transmission using TLE data, ECEF conversion, and the A* algorithm. The user inputs the coordinates of their location and the server's location to get the shortest path between the nearest Starlink satellites.
+Demonstrates a robust approach to satellite pathfinding for Starlink intersatellite transmission using TLE data, ECEF conversion, and the A* algorithm. The user inputs the coordinates of their location and the server's location to get the shortest path between the nearest Starlink satellites.
 
 
 ### How to Use:
@@ -29,7 +29,7 @@ Demonstrates a robust approach to satellite pathfinding for Star link intersatel
 
 Inside the project folder, you'll find the src folder with the Java code and other necessary files.<br>
 The dataset containing the geographical information is located outside the src folder, in the root project directory.<br>
-The TLE data is for a particular instant of time and it has many properties such as satellite name, satellite ID and information about Satellite's orbital mechanics.
+The TLE dataset is for a particular instant of time and it has many properties such as satellite name, satellite ID and information about Satellite's orbital mechanics.
 
 To download the data from the source : [Download dataset](https://celestrak.org/NORAD/elements/)
 

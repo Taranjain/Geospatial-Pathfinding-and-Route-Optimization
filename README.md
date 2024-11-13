@@ -85,7 +85,7 @@ Inside the project folder, you'll find the src folder with the Java code and oth
 The dataset containing the geographical information is located outside the src folder, in the root project directory.<br>
 
 D:/oops_project/<br>
-├── A-star ALGORITHM/<br>
+├── KRUSKAL ALGORITHM/<br>
 │   ├── src/<br>
 │   │   └── [FlightRoutes.java](https://github.com/ashishbongu/Oops-Project/blob/master/KRUSKAL%20ALGORITHM/src/FlightRoutes.java)<br>
 │   ├── flights.csv<br>

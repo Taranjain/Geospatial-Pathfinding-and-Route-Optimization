@@ -33,11 +33,11 @@ The TLE dataset is for a particular instant of time and it has many properties s
 
 To download the data from the source : [Download dataset](https://celestrak.org/NORAD/elements/)
 
-D:/oops_project/<br>
+D:/Oops_Project/<br>
 ├── A-star ALGORITHM/<br>
 │   ├── src/<br>
 │   │   └── [main](https://github.com/ashishbongu/Oops-Project/blob/master/A-star%20ALGORITHM/src/Main.java)<br>
-│   ├── satellite.tle<br>
+│   ├── starlink(1).tle<br>
 │   └── (other project files)<br><br>
 
 3. Compile the Java file:
@@ -54,12 +54,12 @@ This project helps you find the nearest Bus Rapid Transit System (BRTS) station 
    git clone https://github.com/ashishbongu/Oops-Project.git 
 2. Navigate to the project folder using:<br>
 
-**COMMAND:  cd "D:/oops_project/HAVERSINE ALGORITHM"**
+**COMMAND:  cd "D:/Oops_Project/HAVERSINE ALGORITHM"**
 
 Inside the project folder, you'll find the src folder with the Java code and other necessary files.<br>
 The dataset containing the geographical information is located outside the src folder, in the root project directory.<br>
 
-D:/oops_project/<br>
+D:/Oops_Project/<br>
 ├── HAVERSINE ALGORITHM/<br>
 │   ├── src/<br>
 │   │   └── [BusStationGraph.java](https://github.com/ashishbongu/Oops-Project/blob/master/HAVERSINE%20ALGORITHM/src/BusStationGraph.java)<br>
@@ -82,12 +82,12 @@ a project that leverages a graph-based approach to find the most efficient fligh
    git clone https://github.com/ashishbongu/Oops-Project.git 
 2. Navigate to the project folder using:<br>
 
-**COMMAND:  cd "D:/oops_project/KRUSKAL ALGORITHM"**
+**COMMAND:  cd "D:/Oops_Project/KRUSKAL ALGORITHM"**
 
 Inside the project folder, you'll find the src folder with the Java code and other necessary files.<br>
 The dataset containing the geographical information is located outside the src folder, in the root project directory.<br>
 
-D:/oops_project/<br>
+D:/Oops_Project/<br>
 ├── KRUSKAL ALGORITHM/<br>
 │   ├── src/<br>
 │   │   └── [FlightRoutes.java](https://github.com/ashishbongu/Oops-Project/blob/master/KRUSKAL%20ALGORITHM/src/FlightRoutes.java)<br>

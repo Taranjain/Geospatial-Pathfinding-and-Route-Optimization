@@ -7,7 +7,7 @@
 
 # Table of Contents
 
-1. A* ALGORITHM- on starlink satelite
+1. A* ALGORITHM- on starlink satellite
 2. HAVERSINE ALGORITHM- finding nearest BRTS Stop
 3. KRUSKAL ALGORITHM- optimized flight route 
 

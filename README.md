@@ -91,7 +91,7 @@ D:/Oops_Project/<br>
 ├── KRUSKAL ALGORITHM/<br>
 │   ├── src/<br>
 │   │   └── [FlightRoutes.java](https://github.com/ashishbongu/Oops-Project/blob/master/KRUSKAL%20ALGORITHM/src/FlightRoutes.java)<br>
-│   ├── flights.csv<br>
+│   ├── flightroutes.csv<br>
 │   └── (other project files)<br><br>
 
 3. Compile the Java file:

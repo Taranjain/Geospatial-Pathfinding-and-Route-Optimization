@@ -1,10 +1,5 @@
 # Java Based Applications on Distinct Datasets Using Different Algorithms
 
-# Group Members and their projects: 
-     BONGU ASHISH - 23BDS014 (Nearest BRTS station finder)
-     CHABALA SAI ARAVIND - 23BDS075 (Starlink intersatellite transmission) 
-     TARAN JAIN - 23BDS062 (Flight route finder) 
-
 # Table of Contents
 
 1. A* ALGORITHM- Starlink Intersatellite shortest pathfinding algorithm.
@@ -22,7 +17,7 @@ Demonstrates a robust approach to satellite pathfinding for Starlink intersatell
 ### How to Use:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ashishbongu/Oops-Project.git 
+   git clone https://github.com/Taranjain/Geospatial-Pathfinding-and-Route-Optimization.git 
 2. Navigate to the project folder using:<br>
 
 **COMMAND:  cd "D:/Oops_Project/A-star ALGORITHM"**
@@ -36,7 +31,7 @@ To download the data from the source : [Download dataset](https://celestrak.org/
 D:/Oops_Project/<br>
 ├── A-star ALGORITHM/<br>
 │   ├── src/<br>
-│   │   └── [main](https://github.com/ashishbongu/Oops-Project/blob/master/A-star%20ALGORITHM/src/Main.java)<br>
+│   │   └── [main](https://github.com/Taranjain/Geospatial-Pathfinding-and-Route-Optimization/blob/master/A-star%20ALGORITHM/src/Main.java)<br>
 │   ├── starlink(1).tle<br>
 │   └── (other project files)<br><br>
 
@@ -51,7 +46,7 @@ This project helps you find the nearest Bus Rapid Transit System (BRTS) station 
 ### How to Use:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ashishbongu/Oops-Project.git 
+   git clone https://github.com/Taranjain/Geospatial-Pathfinding-and-Route-Optimization.git 
 2. Navigate to the project folder using:<br>
 
 **COMMAND:  cd "D:/Oops_Project/HAVERSINE ALGORITHM"**
@@ -62,7 +57,7 @@ The dataset containing the geographical information is located outside the src f
 D:/Oops_Project/<br>
 ├── HAVERSINE ALGORITHM/<br>
 │   ├── src/<br>
-│   │   └── [BusStationGraph.java](https://github.com/ashishbongu/Oops-Project/blob/master/HAVERSINE%20ALGORITHM/src/BusStationGraph.java)<br>
+│   │   └── [BusStationGraph.java](https://github.com/Taranjain/Geospatial-Pathfinding-and-Route-Optimization/blob/master/HAVERSINE%20ALGORITHM/src/BusStationGraph.java)<br>
 │   ├── station.txt<br>
 │   └── (other project files)<br><br>
 
@@ -79,7 +74,7 @@ a project that leverages a graph-based approach to find the most efficient fligh
 ### How to Use:
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ashishbongu/Oops-Project.git 
+   git clone https://github.com/Taranjain/Geospatial-Pathfinding-and-Route-Optimization.git 
 2. Navigate to the project folder using:<br>
 
 **COMMAND:  cd "D:/Oops_Project/KRUSKAL ALGORITHM"**
@@ -90,7 +85,7 @@ The dataset containing the geographical information is located outside the src f
 D:/Oops_Project/<br>
 ├── KRUSKAL ALGORITHM/<br>
 │   ├── src/<br>
-│   │   └── [FlightRoutes.java](https://github.com/ashishbongu/Oops-Project/blob/master/KRUSKAL%20ALGORITHM/src/FlightRoutes.java)<br>
+│   │   └── [FlightRoutes.java](https://github.com/Taranjain/Geospatial-Pathfinding-and-Route-Optimization/blob/master/KRUSKAL%20ALGORITHM/src/FlightRoutes.java)<br>
 │   ├── routes.csv.zip<br>
 │   └── (other project files)<br><br>
 
